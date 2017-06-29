@@ -1,0 +1,9 @@
+SM:project.map:'link map'
+MV:3.0:'compiler version'
+TC:0:'Trace Code'
+SA:'allocation map'
+LM:1:pro2.ric:0000:1000-1035:'link module'
+ #  0: 007f, 1, 1000, PRO2
+FA:0036:'free allocation'
+EA:'end of allocation map'
+EM:'end of link map'
